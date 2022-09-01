@@ -1,5 +1,10 @@
 {
-  "categorias": [],
+  "categorias": [
+    {
+      "nome": "livros",
+      "id": 1
+    }
+  ],
   "editoras": [],
   "autores": []
 }
